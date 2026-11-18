@@ -109,3 +109,4 @@ plt.show()
 
 
 ## Result
+Thus, the Support Vector Machine (SVM) classification model was successfully implemented using Linear and RBF kernels on the Iris dataset. Both models achieved an accuracy of 68.89%, and the decision boundary was visualized successfully.
